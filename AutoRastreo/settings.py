@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-jcbra@!5ji52sh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://autorastreo-muestra-steel.vercel.app/", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["https://autorastreo-muestra-steel.vercel.app/", ".vercel.app", "localhost", "127.0.0.1"]
 
 
 # Application definition
