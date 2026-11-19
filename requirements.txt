@@ -1,7 +1,4 @@
-beautifulsoup4==4.12.3
 bootstrap4==0.1.0
-charset-normalizer==3.3.2
-colorama==0.4.6
 crispy-bootstrap4==2023.1
 Django==5.0.2
 django-bootstrap4==24.1
@@ -9,6 +6,4 @@ django-ckeditor==6.7.1
 django-crispy-forms==2.1
 django-js-asset==2.2.0
 pillow==10.2.0
-pylint-celery==0.3
-pylint-django==2.5.5
 whitenoise==6.12.0
